@@ -3,9 +3,9 @@
 ## Projet 
   Ce bot à été realiser par https://github.com/Darklg , j'ai pas apporté de grand changement , juste une petite modification sur le Front-end , car le Back-end il est super bien réaliser .
 ## Run
-  Pour démarrer le projet quoi de plus simple et doux que l'utilisation d'un serveur NodeJS
+  Pour démarrer le projet vous pouvez ouvrir le fichier index.html depuid votre navigateur ou utiliser serveur NodeJS
 ## Test
-  Pour avoir un rendu de SchumbaBot , vous pouvez le tester sur ce lien http://lab.darklg.me/ScumbagBot/
+  Pour avoir un rendu de SchumbaBot , vous pouvez le tester sur ce lien https://svngoku.github.io/ScumbagBot/
 ## Technologie
   * MooTools 
       https://mootools.net
